@@ -1,6 +1,16 @@
 # yurei
 A Tenkeyless PCB for customizing Filco Majestouch 2
 
+## Supported Layouts
+ * ANSI
+
+## Supported Cases
+ * Filco Majestouch 2
+
+### Note
+ * A bit modification to Filco case is required to install the USB cable.
+ * Some other keyboard cases may also be compatible, but they have not been tested. 
+
 ## Parts List
 
 |Name               |Quantity   |   |   |   |
