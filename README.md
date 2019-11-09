@@ -1,2 +1,2 @@
 # yurei
- A Filco Majestouch 2 compatible PCB
+A Tenkeyless PCB for customizing Filco Majestouch 2
