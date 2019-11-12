@@ -1,3 +1,7 @@
 (sym_lib_table
   (lib (name teensy)(type Legacy)(uri ${KIPRJMOD}/teensy.lib)(options "")(descr ""))
+  (lib (name Switch)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Switch.lib)(options "")(descr ""))
+  (lib (name Diode)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Diode.lib)(options "")(descr ""))
+  (lib (name Device)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Device.lib)(options "")(descr ""))
+  (lib (name power)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/power.lib)(options "")(descr ""))
 )
