@@ -1,4 +1,4 @@
-33042975853388
+28322261893896
 teensy
 Teensy1.0
 11
@@ -62,27 +62,6 @@ LED diameter 3.0mm 2 pins
 0
 2
 2
-yurei
-MountingHole_4mm
-Mounting Hole 4mm, no annular
-mounting hole 4mm no annular
-0
-0
-0
-yurei
-MountingHole_5.3mm_M5
-Mounting Hole 5.3mm, no annular, M5
-mounting hole 5.3mm no annular m5
-0
-0
-0
-yurei
-MountingHole_8.4mm_M8
-Mounting Hole 8.4mm, no annular, M8
-mounting hole 8.4mm no annular m8
-0
-0
-0
 yurei
 R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
 Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf

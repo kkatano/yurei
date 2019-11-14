@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 4)
+    (drawings 10)
     (tracks 0)
     (zones 0)
     (modules 179)
@@ -348,7 +348,7 @@
   )
 
   (module teensy:Teensy2.0 (layer B.Cu) (tedit 5D5219BD) (tstamp 5DCCB521)
-    (at 74.93375 21.73875 180)
+    (at 130.96875 93.6625 180)
     (descr 11)
     (path /5DC6C2E6)
     (fp_text reference U1 (at 0 10.16) (layer B.SilkS)
@@ -459,7 +459,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB385)
-    (at 339.443 109.2735)
+    (at 376.74925 181.0485)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD9B6CF)
@@ -503,7 +503,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB466)
-    (at 320.393 109.2735)
+    (at 357.69925 181.0485)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD9B6C1)
@@ -547,7 +547,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB697)
-    (at 301.343 109.2735)
+    (at 338.64925 181.0485)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD9B6B3)
@@ -591,7 +591,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.25u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB12D)
-    (at 274.958499 109.2735)
+    (at 312.264749 181.0485)
     (descr "Cherry MX keyswitch, 1.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.25u PCB")
     (path /5DD9B6A5)
@@ -635,7 +635,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.25u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB6E2)
-    (at 251.146 109.2735)
+    (at 288.45225 181.0485)
     (descr "Cherry MX keyswitch, 1.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.25u PCB")
     (path /5DD9B697)
@@ -679,7 +679,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.25u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB5B6)
-    (at 227.3335 109.2735)
+    (at 264.63975 181.0485)
     (descr "Cherry MX keyswitch, 1.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.25u PCB")
     (path /5DD9B689)
@@ -723,7 +723,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.25u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB1C3)
-    (at 203.521 109.2735)
+    (at 240.82725 181.0485)
     (descr "Cherry MX keyswitch, 1.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.25u PCB")
     (path /5DD9B67B)
@@ -767,7 +767,7 @@
   )
 
   (module yurei:SW_Cherry_MX_6.25u_PCB (layer F.Cu) (tedit 5DCACB7B) (tstamp 5DCCB2EF)
-    (at 132.0835 109.2735)
+    (at 169.38975 181.0485)
     (descr "Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 6.25u PCB")
     (path /5DD9B643)
@@ -811,7 +811,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.25u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB097)
-    (at 60.646 109.2735)
+    (at 97.95225 181.0485)
     (descr "Cherry MX keyswitch, 1.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.25u PCB")
     (path /5DD9B60A)
@@ -855,7 +855,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.25u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB04C)
-    (at 36.8335 109.2735)
+    (at 74.13975 181.0485)
     (descr "Cherry MX keyswitch, 1.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.25u PCB")
     (path /5DD9B5FC)
@@ -899,7 +899,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.25u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB3D0)
-    (at 13.021 109.2735)
+    (at 50.32725 181.0485)
     (descr "Cherry MX keyswitch, 1.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.25u PCB")
     (path /5DD9B5ED)
@@ -943,7 +943,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB20E)
-    (at 320.393 90.2235)
+    (at 357.69925 161.9985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD6F341)
@@ -987,7 +987,7 @@
   )
 
   (module yurei:SW_Cherry_MX_2.75u_PCB (layer F.Cu) (tedit 5DCACB66) (tstamp 5DCCB4B1)
-    (at 260.6715 90.2235)
+    (at 297.97775 161.9985)
     (descr "Cherry MX keyswitch, 2.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 2.75u PCB")
     (path /5DD6F317)
@@ -1031,7 +1031,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB33A)
-    (at 224.9525 90.2235)
+    (at 262.25875 161.9985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD6F309)
@@ -1075,7 +1075,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB178)
-    (at 205.9025 90.2235)
+    (at 243.20875 161.9985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD6F2FB)
@@ -1119,7 +1119,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB259)
-    (at 186.8525 90.2235)
+    (at 224.15875 161.9985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD6F2ED)
@@ -1163,7 +1163,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB64C)
-    (at 167.8025 90.2235)
+    (at 205.10875 161.9985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD6F2DF)
@@ -1207,7 +1207,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB2A4)
-    (at 148.7525 90.2235)
+    (at 186.05875 161.9985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD6F2D1)
@@ -1251,7 +1251,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB601)
-    (at 129.7025 90.2235)
+    (at 167.00875 161.9985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD6F2C3)
@@ -1295,7 +1295,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB41B)
-    (at 110.6525 90.2235)
+    (at 147.95875 161.9985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD6F2B5)
@@ -1339,7 +1339,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB0E2)
-    (at 91.6025 90.2235)
+    (at 128.90875 161.9985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD6F2A7)
@@ -1383,7 +1383,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCC231)
-    (at 72.5525 90.2235)
+    (at 109.85875 161.9985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD6F298)
@@ -1427,7 +1427,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCC27C)
-    (at 53.5025 90.2235)
+    (at 90.80875 161.9985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD6F28A)
@@ -1471,7 +1471,7 @@
   )
 
   (module yurei:SW_Cherry_MX_2.25u_PCB (layer F.Cu) (tedit 5DCACB5F) (tstamp 5DCCC2C7)
-    (at 22.6206 90.2235)
+    (at 59.92685 161.9985)
     (descr "Cherry MX keyswitch, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 2.25u PCB")
     (path /5DD6F26D)
@@ -1515,7 +1515,7 @@
   )
 
   (module yurei:SW_Cherry_MX_2.25u_PCB (layer F.Cu) (tedit 5DCACB5F) (tstamp 5DCCC600)
-    (at 265.5081 71.1735)
+    (at 302.81435 142.9485)
     (descr "Cherry MX keyswitch, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 2.25u PCB")
     (path /5DD42B08)
@@ -1559,7 +1559,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCC312)
-    (at 234.4775 71.1735)
+    (at 271.78375 142.9485)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD42AEC)
@@ -1603,7 +1603,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCC3A8)
-    (at 215.4275 71.1735)
+    (at 252.73375 142.9485)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD42ADE)
@@ -1647,7 +1647,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCC105)
-    (at 196.3775 71.1735)
+    (at 233.68375 142.9485)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD42AD0)
@@ -1691,7 +1691,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCC3F3)
-    (at 177.3275 71.1735)
+    (at 214.63375 142.9485)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD42AC2)
@@ -1735,7 +1735,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCC1E6)
-    (at 158.2775 71.1735)
+    (at 195.58375 142.9485)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD42AB4)
@@ -1779,7 +1779,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCC489)
-    (at 139.2275 71.1735)
+    (at 176.53375 142.9485)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD42AA6)
@@ -1823,7 +1823,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCC150)
-    (at 120.1775 71.1735)
+    (at 157.48375 142.9485)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD42A98)
@@ -1867,7 +1867,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCC43E)
-    (at 101.1275 71.1735)
+    (at 138.43375 142.9485)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD42A8A)
@@ -1911,7 +1911,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCC19B)
-    (at 82.0775 71.1735)
+    (at 119.38375 142.9485)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD42A7B)
@@ -1955,7 +1955,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCC56A)
-    (at 63.0275 71.1735)
+    (at 100.33375 142.9485)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD42A6D)
@@ -1999,7 +1999,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCC5B5)
-    (at 43.9775 71.1735)
+    (at 81.28375 142.9485)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD42A5F)
@@ -2043,7 +2043,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.75u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCC4D4)
-    (at 17.784 71.1735)
+    (at 55.09025 142.9485)
     (descr "Cherry MX keyswitch, 1.75u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.75u PCB")
     (path /5DD42A50)
@@ -2087,7 +2087,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCC35D)
-    (at 339.443 52.1235)
+    (at 376.74925 123.8985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD29E39)
@@ -2131,7 +2131,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCC51F)
-    (at 320.393 52.1235)
+    (at 357.69925 123.8985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD29E2B)
@@ -2175,7 +2175,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCD500)
-    (at 301.343 52.1235)
+    (at 338.64925 123.8985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD29E1D)
@@ -2219,7 +2219,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.50u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCD33E)
-    (at 272.578 52.1235)
+    (at 309.88425 123.8985)
     (descr "Cherry MX keyswitch, 1.50u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.50u PCB")
     (path /5DD29E0F)
@@ -2263,7 +2263,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCD62C)
-    (at 248.765 52.1235)
+    (at 286.07125 123.8985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD29E01)
@@ -2307,7 +2307,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCD70D)
-    (at 229.715 52.1235)
+    (at 267.02125 123.8985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD29DF3)
@@ -2351,7 +2351,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCD758)
-    (at 210.665 52.1235)
+    (at 247.97125 123.8985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD29DE5)
@@ -2395,7 +2395,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCD3D4)
-    (at 191.615 52.1235)
+    (at 228.92125 123.8985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD29DD7)
@@ -2439,7 +2439,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCD596)
-    (at 172.565 52.1235)
+    (at 209.87125 123.8985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD29DC9)
@@ -2483,7 +2483,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCD5E1)
-    (at 153.515 52.1235)
+    (at 190.82125 123.8985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD29DBB)
@@ -2527,7 +2527,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCD41F)
-    (at 134.465 52.1235)
+    (at 171.77125 123.8985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD29DAD)
@@ -2571,7 +2571,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCD677)
-    (at 115.415 52.1235)
+    (at 152.72125 123.8985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD29D9F)
@@ -2615,7 +2615,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCD7A3)
-    (at 96.365 52.1235)
+    (at 133.67125 123.8985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD29D91)
@@ -2659,7 +2659,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCD389)
-    (at 77.315 52.1235)
+    (at 114.62125 123.8985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD29D82)
@@ -2703,7 +2703,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCD46A)
-    (at 58.265 52.1235)
+    (at 95.57125 123.8985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD29D74)
@@ -2747,7 +2747,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCD6C2)
-    (at 39.215 52.1235)
+    (at 76.52125 123.8985)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DD29D66)
@@ -2791,7 +2791,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.50u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCD2F3)
-    (at 15.403 52.1235)
+    (at 52.70925 123.8985)
     (descr "Cherry MX keyswitch, 1.50u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.50u PCB")
     (path /5DD29D57)
@@ -2835,7 +2835,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCD4B5)
-    (at 339.443 33.073499)
+    (at 376.74925 104.848499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCC1D0F)
@@ -2879,7 +2879,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCD54B)
-    (at 320.393 33.073499)
+    (at 357.69925 104.848499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCC1D00)
@@ -2923,7 +2923,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCD7EE)
-    (at 301.343 33.073499)
+    (at 338.64925 104.848499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCC1CF1)
@@ -2967,7 +2967,7 @@
   )
 
   (module yurei:SW_Cherry_MX_2.00u_PCB (layer F.Cu) (tedit 5DCACB56) (tstamp 5DCCBF8E)
-    (at 267.815 33.073499)
+    (at 305.12125 104.848499)
     (descr "Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 2.00u PCB")
     (path /5DCC1CE2)
@@ -3011,7 +3011,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCBFD9)
-    (at 239.24 33.073499)
+    (at 276.54625 104.848499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCC1CD3)
@@ -3055,7 +3055,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCBCA0)
-    (at 220.19 33.073499)
+    (at 257.49625 104.848499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCC1CC4)
@@ -3099,7 +3099,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCC024)
-    (at 201.14 33.073499)
+    (at 238.44625 104.848499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCC1CB5)
@@ -3143,7 +3143,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCC06F)
-    (at 182.09 33.073499)
+    (at 219.39625 104.848499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCC1CA6)
@@ -3187,7 +3187,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCBCEB)
-    (at 163.04 33.073499)
+    (at 200.34625 104.848499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCC1C97)
@@ -3231,7 +3231,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCBE17)
-    (at 143.99 33.073499)
+    (at 181.29625 104.848499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCC1C88)
@@ -3275,7 +3275,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCBDCC)
-    (at 124.94 33.073499)
+    (at 162.24625 104.848499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCC1C79)
@@ -3319,7 +3319,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCBD81)
-    (at 105.89 33.073499)
+    (at 143.19625 104.848499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCC1C6A)
@@ -3363,7 +3363,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCC0BA)
-    (at 86.84 33.073499)
+    (at 124.14625 104.848499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCC1C5B)
@@ -3407,7 +3407,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCBD36)
-    (at 67.79 33.073499)
+    (at 105.09625 104.848499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCC1C4B)
@@ -3451,7 +3451,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCBEF8)
-    (at 48.74 33.073499)
+    (at 86.04625 104.848499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCC1C3C)
@@ -3495,7 +3495,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCBF43)
-    (at 29.69 33.073499)
+    (at 66.99625 104.848499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCC1C2D)
@@ -3539,7 +3539,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCBC55)
-    (at 10.64 33.073499)
+    (at 47.94625 104.848499)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCC1C1D)
@@ -3583,7 +3583,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCBEAD)
-    (at 339.443 5.07)
+    (at 376.74925 76.845)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCA64C2)
@@ -3627,7 +3627,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCBE62)
-    (at 320.393 5.07)
+    (at 357.69925 76.845)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCA64B3)
@@ -3671,7 +3671,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCBC0A)
-    (at 301.343 5.07)
+    (at 338.64925 76.845)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCA64A2)
@@ -3715,7 +3715,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCBBBF)
-    (at 277.34 5.07)
+    (at 314.64625 76.845)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DCA6482)
@@ -3759,7 +3759,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCAD22)
-    (at 258.29 5.07)
+    (at 295.59625 76.845)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DC8CB25)
@@ -3803,7 +3803,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCABF6)
-    (at 239.24 5.07)
+    (at 276.54625 76.845)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DC8CB16)
@@ -3847,7 +3847,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCAD6D)
-    (at 220.19 5.07)
+    (at 257.49625 76.845)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DC8CB05)
@@ -3891,7 +3891,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCAC41)
-    (at 191.615 5.07)
+    (at 228.92125 76.845)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DC8CAF6)
@@ -3935,7 +3935,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCADB8)
-    (at 172.565 5.07)
+    (at 209.87125 76.845)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DC81DE2)
@@ -3979,7 +3979,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCAE03)
-    (at 153.515 5.07)
+    (at 190.82125 76.845)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DC81DD3)
@@ -4023,7 +4023,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCAE4E)
-    (at 134.465 5.07)
+    (at 171.77125 76.845)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DC81DC2)
@@ -4067,7 +4067,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCAFB6)
-    (at 105.89 5.07)
+    (at 143.19625 76.845)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DC81DB3)
@@ -4111,7 +4111,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCACD7)
-    (at 86.84 5.07)
+    (at 124.14625 76.845)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DC7D19C)
@@ -4155,7 +4155,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCAC8C)
-    (at 67.79 5.07)
+    (at 105.09625 76.845)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DC7D18C)
@@ -4199,7 +4199,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCAF6B)
-    (at 48.74 5.07)
+    (at 86.04625 76.845)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DC7A43C)
@@ -4243,7 +4243,7 @@
   )
 
   (module yurei:SW_Cherry_MX_1.00u_PCB (layer F.Cu) (tedit 5A02FE24) (tstamp 5DCCB001)
-    (at 10.64 5.07)
+    (at 47.94625 76.845)
     (descr "Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
     (tags "Cherry MX keyswitch 1.00u PCB")
     (path /5DC72F8C)
@@ -4287,7 +4287,7 @@
   )
 
   (module yurei:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE5139B) (tstamp 5DCCAB7B)
-    (at 313.8525 21.73875)
+    (at 351.34925 91.5)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5EFE608C)
@@ -4328,7 +4328,7 @@
   )
 
   (module yurei:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE5139B) (tstamp 5DCCAEF0)
-    (at 294.8025 21.73875)
+    (at 332.29925 91.5)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5E71537D)
@@ -4369,7 +4369,7 @@
   )
 
   (module yurei:LED_D3.0mm (layer F.Cu) (tedit 587A3A7B) (tstamp 5DCCABB9)
-    (at 326.5525 24.91375)
+    (at 363.35925 95.975)
     (descr "LED, diameter 3.0mm, 2 pins")
     (tags "LED diameter 3.0mm 2 pins")
     (path /5EFE6086)
@@ -4404,7 +4404,7 @@
   )
 
   (module yurei:LED_D3.0mm (layer F.Cu) (tedit 587A3A7B) (tstamp 5DCCAF2E)
-    (at 307.5025 24.12)
+    (at 344.30925 95.975)
     (descr "LED, diameter 3.0mm, 2 pins")
     (tags "LED diameter 3.0mm 2 pins")
     (path /5E71176E)
@@ -4439,7 +4439,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCAB29)
-    (at 327.34625 118.7985 90)
+    (at 364.6525 189.9385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD9B6D5)
@@ -4492,7 +4492,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCAE9E)
-    (at 308.29625 118.7985 90)
+    (at 345.6025 189.9385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD9B6C7)
@@ -4508,7 +4508,7 @@
     (fp_text user K (at 0 1.8 90) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text user %R (at 4.11 0 90) (layer B.Fab)
+    (fp_text user %R (at 4.11 -0.054 90) (layer B.Fab)
       (effects (font (size 0.8 0.8) (thickness 0.12)) (justify mirror))
     )
     (fp_line (start 8.67 1.25) (end -1.05 1.25) (layer B.CrtYd) (width 0.05))
@@ -4545,7 +4545,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCDAB4)
-    (at 289.24625 118.7985 90)
+    (at 326.5525 170.9 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD9B6B9)
@@ -4598,7 +4598,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCD94C)
-    (at 263.0525 118.7985 90)
+    (at 300.35875 189.9385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD9B6AB)
@@ -4651,7 +4651,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCD9A6)
-    (at 239.24 118.7985 90)
+    (at 276.54625 189.9385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD9B69D)
@@ -4704,7 +4704,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCD8F2)
-    (at 215.4275 118.7985 90)
+    (at 252.73375 189.9385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD9B68F)
@@ -4757,7 +4757,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCDB0E)
-    (at 191.615 118.7985 90)
+    (at 228.92125 189.9385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD9B681)
@@ -4810,11 +4810,11 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCDA00)
-    (at 139.2275 118.7985 90)
+    (at 176.53375 189.9385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD9B649)
-    (fp_text reference D80 (at 3.81 2.12 90) (layer B.SilkS)
+    (fp_text reference D80 (at 4.445 2.12 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value 1N4148 (at 3.81 -2.12 90) (layer B.Fab)
@@ -4863,7 +4863,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCD898)
-    (at 67.79 118.7985 90)
+    (at 105.09625 189.9385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD9B610)
@@ -4916,7 +4916,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCD83E)
-    (at 43.9775 118.7985 90)
+    (at 81.28375 189.9385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD9B602)
@@ -4969,7 +4969,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCDA5A)
-    (at 20.165 118.7985 90)
+    (at 57.47125 189.9385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD9B5F3)
@@ -5022,7 +5022,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCBB10)
-    (at 327.34625 99.7485 90)
+    (at 364.6525 170.8885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD6F347)
@@ -5075,7 +5075,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCBB6A)
-    (at 267.815 99.52625 90)
+    (at 305.12125 170.8885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD6F31D)
@@ -5091,7 +5091,7 @@
     (fp_text user K (at 0 1.8 90) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text user %R (at 4.11 0 90) (layer B.Fab)
+    (fp_text user %R (at 4.22275 0 90) (layer B.Fab)
       (effects (font (size 0.8 0.8) (thickness 0.12)) (justify mirror))
     )
     (fp_line (start 8.67 1.25) (end -1.05 1.25) (layer B.CrtYd) (width 0.05))
@@ -5128,7 +5128,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCB8F4)
-    (at 232.09625 99.7485 90)
+    (at 269.4025 170.8885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD6F30F)
@@ -5181,7 +5181,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCBA5C)
-    (at 213.04625 99.7485 90)
+    (at 250.3525 170.8885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD6F301)
@@ -5234,7 +5234,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCB94E)
-    (at 193.99625 99.7485 90)
+    (at 231.3025 170.8885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD6F2F3)
@@ -5287,7 +5287,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCBA02)
-    (at 174.94625 99.7485 90)
+    (at 212.2525 170.8885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD6F2E5)
@@ -5340,7 +5340,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCB9A8)
-    (at 155.89625 100.32 90)
+    (at 193.2025 170.8885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD6F2D7)
@@ -5393,7 +5393,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCB89A)
-    (at 136.84625 99.7485 90)
+    (at 174.1525 170.8885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD6F2C9)
@@ -5446,7 +5446,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCBAB6)
-    (at 117.79625 99.7485 90)
+    (at 155.1025 170.8885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD6F2BB)
@@ -5499,7 +5499,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCDCD0)
-    (at 98.74625 99.7485 90)
+    (at 136.0525 170.8885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD6F2AD)
@@ -5552,14 +5552,14 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCDD84)
-    (at 79.69625 99.7485 90)
+    (at 117.0025 170.8885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD6F29E)
     (fp_text reference D66 (at 3.81 2.12 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 1N4148 (at 3.81 -2.12 90) (layer B.Fab)
+    (fp_text value 1N4148 (at 4.445 -2.12 90) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user K (at 0 1.8 90) (layer B.SilkS)
@@ -5605,7 +5605,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCDBC2)
-    (at 60.64625 99.7485 90)
+    (at 97.9525 170.8885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD6F290)
@@ -5658,7 +5658,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCDE38)
-    (at 29.69 99.7485 90)
+    (at 66.99625 170.8885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD6F273)
@@ -5711,7 +5711,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCDC1C)
-    (at 272.5775 80.6985 90)
+    (at 309.88375 151.8385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD42B0E)
@@ -5764,7 +5764,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCDD2A)
-    (at 241.62125 80.6985 90)
+    (at 278.9275 151.8385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD42AF2)
@@ -5817,7 +5817,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCDDDE)
-    (at 222.57125 80.6985 90)
+    (at 259.8775 151.8385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD42AE4)
@@ -5870,7 +5870,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCDB68)
-    (at 203.52125 80.6985 90)
+    (at 240.8275 151.8385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD42AD6)
@@ -5923,7 +5923,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCDC76)
-    (at 184.47125 80.6985 90)
+    (at 221.7775 151.8385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD42AC8)
@@ -5976,7 +5976,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCC9D4)
-    (at 165.42125 80.6985 90)
+    (at 202.7275 151.8385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD42ABA)
@@ -6029,7 +6029,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCCA2E)
-    (at 146.37125 80.6985 90)
+    (at 183.6775 151.8385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD42AAC)
@@ -6082,7 +6082,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCCA88)
-    (at 127.32125 80.6985 90)
+    (at 164.6275 151.8385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD42A9E)
@@ -6135,7 +6135,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCCAE2)
-    (at 108.27125 80.6985 90)
+    (at 145.5775 151.8385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD42A90)
@@ -6188,7 +6188,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCCC4A)
-    (at 89.22125 80.6985 90)
+    (at 126.5275 151.8385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD42A81)
@@ -6241,7 +6241,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCCB3C)
-    (at 70.17125 80.6985 90)
+    (at 107.4775 151.8385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD42A73)
@@ -6294,7 +6294,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCC97A)
-    (at 51.12125 80.6985 90)
+    (at 88.4275 151.8385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD42A65)
@@ -6347,7 +6347,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCCB96)
-    (at 24.9275 80.6985 90)
+    (at 62.23375 151.8385 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD42A56)
@@ -6400,7 +6400,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCCBF0)
-    (at 327.34625 61.6485 90)
+    (at 364.6525 132.7885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD29E3F)
@@ -6453,7 +6453,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCCCA4)
-    (at 308.29625 61.6485 90)
+    (at 345.6025 132.7885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD29E31)
@@ -6506,7 +6506,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCCE66)
-    (at 289.24625 61.6485 90)
+    (at 326.5525 132.7885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD29E23)
@@ -6559,7 +6559,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCCF74)
-    (at 279.72125 61.6485 90)
+    (at 317.0275 132.7885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD29E15)
@@ -6612,7 +6612,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCCCFE)
-    (at 255.90875 61.6485 90)
+    (at 293.215 132.7885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD29E07)
@@ -6665,7 +6665,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCCD58)
-    (at 236.85875 61.6485 90)
+    (at 274.165 132.7885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD29DF9)
@@ -6718,7 +6718,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCCDB2)
-    (at 217.80875 61.6485 90)
+    (at 255.115 132.7885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD29DEB)
@@ -6771,7 +6771,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCCF1A)
-    (at 198.75875 61.6485 90)
+    (at 236.065 132.7885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD29DDD)
@@ -6824,7 +6824,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCCEC0)
-    (at 179.70875 61.6485 90)
+    (at 217.015 132.7885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD29DCF)
@@ -6877,7 +6877,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCCE0C)
-    (at 160.65875 61.6485 90)
+    (at 197.965 132.7885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD29DC1)
@@ -6930,7 +6930,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCE432)
-    (at 141.60875 61.6485 90)
+    (at 178.915 132.7885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD29DB3)
@@ -6983,7 +6983,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCE48C)
-    (at 122.55875 61.6485 90)
+    (at 159.865 132.7885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD29DA5)
@@ -7036,7 +7036,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCE1BC)
-    (at 103.50875 61.6485 90)
+    (at 140.815 132.7885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD29D97)
@@ -7089,7 +7089,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCE3D8)
-    (at 84.45875 61.6485 90)
+    (at 121.765 132.7885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD29D88)
@@ -7142,7 +7142,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCE216)
-    (at 65.40875 61.6485 90)
+    (at 102.715 132.7885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD29D7A)
@@ -7195,7 +7195,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCE270)
-    (at 46.35875 61.6485 90)
+    (at 83.665 132.7885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD29D6C)
@@ -7248,7 +7248,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCE2CA)
-    (at 22.54625 61.6485 90)
+    (at 59.8525 132.7885 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DD29D5D)
@@ -7301,14 +7301,14 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCE324)
-    (at 327.34625 42.598499 90)
+    (at 364.6525 113.738499 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCC1D15)
     (fp_text reference D33 (at 3.81 2.12 90) (layer B.SilkS)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text value 1N4148 (at 3.81 -2.12 90) (layer B.Fab)
+    (fp_text value 1N4148 (at 4.445 -2.12 90) (layer B.Fab)
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text user K (at 0 1.8 90) (layer B.SilkS)
@@ -7354,7 +7354,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCE37E)
-    (at 308.29625 42.598499 90)
+    (at 345.6025 113.738499 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCC1D06)
@@ -7407,7 +7407,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCC650)
-    (at 289.24625 42.598499 90)
+    (at 326.5525 113.738499 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCC1CF7)
@@ -7460,7 +7460,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCC6AA)
-    (at 274.95875 42.598499 90)
+    (at 312.265 113.738499 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCC1CE8)
@@ -7513,7 +7513,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCC7B8)
-    (at 246.38375 42.598499 90)
+    (at 283.69 113.738499 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCC1CD9)
@@ -7566,7 +7566,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCC920)
-    (at 227.33375 42.598499 90)
+    (at 264.64 113.738499 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCC1CCA)
@@ -7619,7 +7619,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCC812)
-    (at 208.28375 42.598499 90)
+    (at 245.59 113.738499 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCC1CBB)
@@ -7672,7 +7672,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCC75E)
-    (at 189.23375 42.598499 90)
+    (at 226.54 113.738499 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCC1CAC)
@@ -7725,7 +7725,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCC86C)
-    (at 170.18375 42.598499 90)
+    (at 207.49 113.738499 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCC1C9D)
@@ -7778,7 +7778,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCC8C6)
-    (at 151.13375 42.598499 90)
+    (at 188.44 113.738499 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCC1C8E)
@@ -7831,7 +7831,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCC704)
-    (at 132.08375 42.598499 90)
+    (at 169.39 113.738499 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCC1C7F)
@@ -7884,7 +7884,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCE162)
-    (at 113.03375 42.598499 90)
+    (at 150.34 113.738499 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCC1C70)
@@ -7937,7 +7937,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCD3E31)
-    (at 93.98375 42.598499 90)
+    (at 131.29 113.738499 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCC1C61)
@@ -7990,7 +7990,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCE108)
-    (at 74.93375 42.37625 90)
+    (at 112.24 113.738499 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCC1C51)
@@ -8043,7 +8043,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCDE92)
-    (at 55.88375 42.598499 90)
+    (at 93.19 113.738499 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCC1C42)
@@ -8096,7 +8096,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCDFFA)
-    (at 36.83375 42.598499 90)
+    (at 74.14 113.738499 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCC1C33)
@@ -8149,7 +8149,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCE0AE)
-    (at 17.78375 42.598499 90)
+    (at 55.09 113.738499 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCC1C23)
@@ -8202,7 +8202,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCD327E)
-    (at 327.34625 14.595 90)
+    (at 364.6525 85.735 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCA64C8)
@@ -8255,7 +8255,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCDFA0)
-    (at 308.29625 14.595 90)
+    (at 345.6025 85.735 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCA64B9)
@@ -8308,7 +8308,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCDEEC)
-    (at 289.24625 14.595 90)
+    (at 326.5525 85.735 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCA64A8)
@@ -8361,7 +8361,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCD29E)
-    (at 284.48375 14.595 90)
+    (at 321.79 85.735 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DCA6488)
@@ -8414,7 +8414,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCCFCE)
-    (at 265.43375 14.595 90)
+    (at 302.74 85.735 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DC8CB2B)
@@ -8467,7 +8467,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCD082)
-    (at 246.38375 14.595 90)
+    (at 283.69 85.735 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DC8CB1C)
@@ -8520,7 +8520,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCD0DC)
-    (at 227.33375 14.595 90)
+    (at 264.64 85.735 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DC8CB0B)
@@ -8573,7 +8573,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCD244)
-    (at 198.75875 14.595 90)
+    (at 236.065 85.735 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DC8CAFC)
@@ -8626,7 +8626,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCD136)
-    (at 179.70875 14.595 90)
+    (at 217.015 85.735 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DC81DE8)
@@ -8679,7 +8679,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCD3BE2)
-    (at 141.60875 14.595 90)
+    (at 178.915 85.735 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DC81DD9)
@@ -8732,7 +8732,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCD028)
-    (at 122.55875 14.595 90)
+    (at 159.865 85.735 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DC81DC8)
@@ -8785,7 +8785,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCD190)
-    (at 113.03375 14.595 90)
+    (at 150.34 85.735 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DC81DB9)
@@ -8838,7 +8838,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCB732)
-    (at 93.98375 14.595 90)
+    (at 111.91875 85.735 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DC7D1A2)
@@ -8891,7 +8891,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCB78C)
-    (at 55.88375 14.595 90)
+    (at 93.19 85.735 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DC7D192)
@@ -8944,7 +8944,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCB840)
-    (at 36.83375 14.595 90)
+    (at 74.14 85.735 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DC7A442)
@@ -8997,7 +8997,7 @@
   )
 
   (module yurei:D_DO-35_SOD27_P7.62mm_Horizontal (layer B.Cu) (tedit 5AE50CD5) (tstamp 5DCCB7E6)
-    (at 17.78375 14.595 90)
+    (at 55.09 85.735 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5DC740F8)
@@ -9049,9 +9049,15 @@
     )
   )
 
-  (gr_line (start 0 122) (end 0 0) (layer Edge.Cuts) (width 0.05) (tstamp 5DCC4ACB))
-  (gr_line (start 345 122) (end 0 122) (layer Edge.Cuts) (width 0.05) (tstamp 5DCC4ACA))
-  (gr_line (start 345 0) (end 345 122) (layer Edge.Cuts) (width 0.05))
-  (gr_line (start 0 0) (end 345 0) (layer Edge.Cuts) (width 0.05))
+  (gr_circle (center 197.83125 81.925) (end 199.83125 81.925) (layer Edge.Cuts) (width 0.2) (tstamp 5DCD8CAD))
+  (gr_circle (center 209.88125 95.975) (end 212.53125 95.975) (layer Edge.Cuts) (width 0.2) (tstamp 5DCD8532))
+  (gr_circle (center 73.98125 157.5285) (end 78.18125 157.5285) (layer Edge.Cuts) (width 0.2) (tstamp 5DCD8585))
+  (gr_circle (center 93.03125 95.975) (end 97.23125 95.975) (layer Edge.Cuts) (width 0.2) (tstamp 5DCD8560))
+  (gr_circle (center 324.15625 181.828499) (end 328.35625 181.828499) (layer Edge.Cuts) (width 0.2) (tstamp 5DCD7D16))
+  (gr_circle (center 324.15625 95.975) (end 328.35625 95.975) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start 37.30625 195.025) (end 37.30625 73.025) (layer Edge.Cuts) (width 0.05) (tstamp 5DCC4ACB))
+  (gr_line (start 382.30625 195.025) (end 37.30625 195.025) (layer Edge.Cuts) (width 0.05) (tstamp 5DCC4ACA))
+  (gr_line (start 382.30625 73.025) (end 382.30625 195.025) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 37.30625 73.025) (end 382.30625 73.025) (layer Edge.Cuts) (width 0.05))
 
 )
