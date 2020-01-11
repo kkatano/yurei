@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 3051)
+    (start_pass_no 4983)
     (layer_rule F.Cu
       (active on)
       (preferred_direction horizontal)
@@ -77,7 +77,7 @@
     "Net-(D83-Pad2)" "Net-(D84-Pad2)" "Net-(D85-Pad2)" "Net-(D86-Pad2)" "Net-(D87-Pad2)" "Net-(L1-Pad2)" GND "Net-(L2-Pad2)"
     LED1 LED2 Col0 Col1 Col2 Col3 Col4 Col5
     Col6 Col7 Col8 Col9 Col10 Col11 Col12 Col14
-    Col15 Col16 Col13 "Net-(U1-Pad31)" "Net-(U1-Pad29)" "Net-(U1-Pad16)" "Net-(U1-Pad14)" "Net-(U1-Pad15)"
+    Col15 Col16 Col13 "Net-(U1-Pad29)"
     (clearance_class "kicad_default")
     (via_rule kicad_default)
     (rule
