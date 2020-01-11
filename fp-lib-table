@@ -1,9 +1,3 @@
 (fp_lib_table
-  (lib (name teensy)(type KiCad)(uri ${KIPRJMOD}/teensy.pretty)(options "")(descr ""))
-  (lib (name Button_Switch_Keyboard)(type KiCad)(uri ${KISYSMOD}/Button_Switch_Keyboard.pretty)(options "")(descr "")(disabled))
-  (lib (name MountingHole)(type KiCad)(uri ${KISYSMOD}/MountingHole.pretty)(options "")(descr "")(disabled))
-  (lib (name Resistor_THT)(type KiCad)(uri ${KISYSMOD}/Resistor_THT.pretty)(options "")(descr "")(disabled))
-  (lib (name Diode_THT)(type KiCad)(uri ${KISYSMOD}/Diode_THT.pretty)(options "")(descr "")(disabled))
-  (lib (name LED_THT)(type KiCad)(uri ${KISYSMOD}/LED_THT.pretty)(options "")(descr "")(disabled))
   (lib (name yurei)(type KiCad)(uri ${KIPRJMOD}/yurei.pretty)(options "")(descr ""))
 )
