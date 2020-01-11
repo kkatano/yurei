@@ -1,4 +1,4 @@
-(module SW_Cherry_MX_6.25u_PCB (layer F.Cu) (tedit 5DCACB7B)
+(module SW_Cherry_MX_6.25u_PCB (layer F.Cu) (tedit 5E0DE3C5)
   (descr "Cherry MX keyswitch, 6.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf")
   (tags "Cherry MX keyswitch 6.25u PCB")
   (fp_text reference REF** (at -2.54 -2.794) (layer F.SilkS)
@@ -31,6 +31,10 @@
   (pad "" np_thru_hole circle (at -2.54 5.08) (size 4 4) (drill 4) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -7.62 5.08) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 2.54 5.08) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 47.46 -3.16) (size 4 4) (drill 4) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -52.54 -3.16) (size 4 4) (drill 4) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -52.54 12.08) (size 3.05 3.05) (drill 3.05) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at 47.46 12.08) (size 3.05 3.05) (drill 3.05) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_6.25u_PCB.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
