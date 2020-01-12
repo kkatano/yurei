@@ -13,7 +13,7 @@ A Tenkeyless PCB inspired by Phantom, designed for customizing Filco Majestouch 
 ## Supported Layouts
  * ANSI
 
- [![keyboard-layout](images/keyboard-layout.png)]
+ [![keyboard-layout](images/keyboard-layout.png)
 
 ## Supported Switches
  * Cherry MX and Cherry MX style switches
