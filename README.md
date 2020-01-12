@@ -1,5 +1,7 @@
 # Yurei
-A Tenkeyless PCB inspired by Phantom, designed for customizing Filco Majestouch 2
+A Tenkeyless PCB inspired by Phantom, designed for customizing Filco Majestouch 2.
+
+![yurei](images/yurei.png)
 
 ## Features
  * QMK Firmware
