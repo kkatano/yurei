@@ -13,6 +13,8 @@ A Tenkeyless PCB inspired by Phantom, designed for customizing Filco Majestouch 
 ## Supported Layouts
  * ANSI
 
+ [![keyboard-layout](images/keyboard-layout.png)]
+
 ## Supported Switches
  * Cherry MX and Cherry MX style switches
 
@@ -64,4 +66,6 @@ All symbols and footprints except Teensy are based on The KiCad libraries.
 
 Handy plugin to place the switches.
 
+### [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com/)
 
+Used to generate keyboard layout data to be input to Keyboard Layouter.
