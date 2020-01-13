@@ -28,7 +28,7 @@ A Tenkeyless PCB inspired by Phantom, designed for customizing Filco Majestouch 
  * Some other keyboard cases may also be compatible, but they have not been tested.
  * [YMDK aluminum case is not compatible](images/filco-pcb-and-ymdk-case-problem.pdf) (almost good but plate and pcb are slightly too thick, so that it causes a gap between the top and bottom cases).
    * Genuine filco PCBs and phantom PCBs also have the same problem.
-   * I'm designing a new concept PCB to solve this problem.
+   * I'm designing a new concept PCB named [Wallaby](https://github.com/kkatano/wallaby) to solve this problem. 
 
 ## BOM
 
