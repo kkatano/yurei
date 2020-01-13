@@ -71,3 +71,7 @@ Handy plugin to place the switches.
 ### [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com/)
 
 Used to generate keyboard layout data to be input to Keyboard Layouter.
+
+### [FreeRouting](https://freerouting.org/)
+
+Good starting point for routing.
