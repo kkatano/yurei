@@ -27,6 +27,7 @@ A Tenkeyless PCB inspired by Phantom, designed for customizing Filco Majestouch 
  * A bit modification to Filco case is required to install the USB cable.
  * Some other keyboard cases may also be compatible, but they have not been tested.
  * YMDK aluminum case is not compatible (almost good but plate and pcb are slightly too thick, so that it causes a gap between the top and bottom cases).
+   * Genuine filco PCBs and phantom PCBs also have the same problem.
 
 ## BOM
 
