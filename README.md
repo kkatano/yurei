@@ -40,7 +40,7 @@ https://github.com/qmk/qmk_firmware/tree/master/keyboards/yurei
 
 ## Lisence
 
-Yurei is provided under the MIT License.
+Yurei is released under the MIT License.
 
 ## Credits
 
