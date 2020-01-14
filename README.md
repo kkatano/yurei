@@ -36,7 +36,7 @@ TBA
 
 ## Firmware
 
-TBA
+https://github.com/qmk/qmk_firmware/tree/master/keyboards/yurei
 
 ## Lisence
 
