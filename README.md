@@ -41,7 +41,9 @@ A Tenkeyless PCB inspired by Phantom, designed for customizing Filco Majestouch 
 | U1        | Controller  | Teensy2.0 |https://www.pjrc.com/store/teensy.html                                                                   | 1   | 
 
 You also need following parts.
+
  * [LED spacer](https://www.digikey.jp/product-detail/en/keystone-electronics/7362/36-7362-ND/316720)
+   * 2 pieces
  * Stabilizers
    * 4 x 2u and 1 x 6.25u
 
