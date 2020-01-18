@@ -7,7 +7,7 @@ A Tenkeyless PCB inspired by Phantom, designed for customizing Filco Majestouch 
  * QMK Firmware
  * Teensy 2.0 controller
  * Minimal layout support
- * No LEDs and no underglow
+ * No switch LEDs and no underglow
  * All switches are south facing
  * Compatible with Filco Majestouch 2 case
  * Designed with KiCAD 5.1.4
@@ -40,12 +40,15 @@ A Tenkeyless PCB inspired by Phantom, designed for customizing Filco Majestouch 
 | SW1-SW87  | Key switch  | SW_SPST   |                                                                                                         | 87  | 
 | U1        | Controller  | Teensy2.0 |https://www.pjrc.com/store/teensy.html                                                                   | 1   | 
 
-You also need following parts.
+You also need following parts to build keyboard.
 
  * [LED spacer](https://www.digikey.jp/product-detail/en/keystone-electronics/7362/36-7362-ND/316720)
    * 2 pieces
  * Stabilizers
    * 4 x 2u and 1 x 6.25u
+ * Plate
+ * Case
+ * USB mini-B cable
 
 ## Firmware
 
