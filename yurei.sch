@@ -19,9 +19,10 @@ L yurei:Teensy2.0_(C) U1
 U 1 1 5DC6C2E6
 P 5550 8900
 F 0 "U1" H 5550 9937 60  0000 C CNN
-F 1 "Teensy2.0_(C)" H 5550 9831 60  0000 C CNN
+F 1 "Teensy2.0" H 5550 9831 60  0000 C CNN
 F 2 "yurei:Teensy2.0" H 5650 7850 60  0001 C CNN
 F 3 "" H 5650 7850 60  0000 C CNN
+F 4 "https://www.pjrc.com/store/teensy.html" H 5550 8900 50  0001 C CNN "URL"
 	1    5550 8900
 	1    0    0    -1  
 $EndComp
@@ -72,6 +73,7 @@ F 0 "L1" H 8593 8566 50  0000 C CNN
 F 1 "LED" H 8593 8475 50  0000 C CNN
 F 2 "yurei:LED_D3.0mm" H 8600 8350 50  0001 C CNN
 F 3 "~" H 8600 8350 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/vishay-semiconductor-opto-division/VLHW4100/751-1502-ND/2403143" H 8600 8350 50  0001 C CNN "URL"
 	1    8600 8350
 	1    0    0    -1  
 $EndComp
@@ -83,6 +85,7 @@ F 0 "R1" V 8893 8350 50  0000 C CNN
 F 1 "10k" V 8984 8350 50  0000 C CNN
 F 2 "yurei:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 9030 8350 50  0001 C CNN
 F 3 "~" H 9100 8350 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/yageo/MFR-25FBF52-10K/10.0KXBK-ND/13219" H 9100 8350 50  0001 C CNN "URL"
 	1    9100 8350
 	0    1    1    0   
 $EndComp
@@ -208,6 +211,7 @@ F 0 "L2" H 8593 9066 50  0000 C CNN
 F 1 "LED" H 8593 8975 50  0000 C CNN
 F 2 "yurei:LED_D3.0mm" H 8600 8850 50  0001 C CNN
 F 3 "~" H 8600 8850 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/vishay-semiconductor-opto-division/VLHW4100/751-1502-ND/2403143" H 8600 8850 50  0001 C CNN "URL"
 	1    8600 8850
 	1    0    0    -1  
 $EndComp
@@ -219,6 +223,7 @@ F 0 "R2" V 8893 8850 50  0000 C CNN
 F 1 "10k" V 8984 8850 50  0000 C CNN
 F 2 "yurei:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 9030 8850 50  0001 C CNN
 F 3 "~" H 9100 8850 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/yageo/MFR-25FBF52-10K/10.0KXBK-ND/13219" H 9100 8850 50  0001 C CNN "URL"
 	1    9100 8850
 	0    1    1    0   
 $EndComp
@@ -542,6 +547,7 @@ F 0 "D87" V 12146 6071 50  0000 R CNN
 F 1 "1N4148" V 12055 6071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 12100 5975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 12100 6150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 12100 6150 50  0001 C CNN "URL"
 	1    12100 6150
 	0    -1   -1   0   
 $EndComp
@@ -568,6 +574,7 @@ F 0 "D86" V 11546 6071 50  0000 R CNN
 F 1 "1N4148" V 11455 6071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 11500 5975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 11500 6150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 11500 6150 50  0001 C CNN "URL"
 	1    11500 6150
 	0    -1   -1   0   
 $EndComp
@@ -594,6 +601,7 @@ F 0 "D85" V 10946 6071 50  0000 R CNN
 F 1 "1N4148" V 10855 6071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 10900 5975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10900 6150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 10900 6150 50  0001 C CNN "URL"
 	1    10900 6150
 	0    -1   -1   0   
 $EndComp
@@ -620,6 +628,7 @@ F 0 "D84" V 10346 6071 50  0000 R CNN
 F 1 "1N4148" V 10255 6071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 10300 5975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10300 6150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 10300 6150 50  0001 C CNN "URL"
 	1    10300 6150
 	0    -1   -1   0   
 $EndComp
@@ -646,6 +655,7 @@ F 0 "D83" V 9746 6071 50  0000 R CNN
 F 1 "1N4148" V 9655 6071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 9700 5975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9700 6150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9700 6150 50  0001 C CNN "URL"
 	1    9700 6150
 	0    -1   -1   0   
 $EndComp
@@ -672,6 +682,7 @@ F 0 "D82" V 9146 6071 50  0000 R CNN
 F 1 "1N4148" V 9055 6071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 9100 5975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9100 6150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9100 6150 50  0001 C CNN "URL"
 	1    9100 6150
 	0    -1   -1   0   
 $EndComp
@@ -698,6 +709,7 @@ F 0 "D81" V 8546 6071 50  0000 R CNN
 F 1 "1N4148" V 8455 6071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 8500 5975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8500 6150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 8500 6150 50  0001 C CNN "URL"
 	1    8500 6150
 	0    -1   -1   0   
 $EndComp
@@ -724,6 +736,7 @@ F 0 "D80" V 6146 6071 50  0000 R CNN
 F 1 "1N4148" V 6055 6071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 6100 5975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6100 6150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6100 6150 50  0001 C CNN "URL"
 	1    6100 6150
 	0    -1   -1   0   
 $EndComp
@@ -752,6 +765,7 @@ F 0 "D79" V 3746 6071 50  0000 R CNN
 F 1 "1N4148" V 3655 6071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 3700 5975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3700 6150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3700 6150 50  0001 C CNN "URL"
 	1    3700 6150
 	0    -1   -1   0   
 $EndComp
@@ -778,6 +792,7 @@ F 0 "D78" V 3146 6071 50  0000 R CNN
 F 1 "1N4148" V 3055 6071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 3100 5975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3100 6150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3100 6150 50  0001 C CNN "URL"
 	1    3100 6150
 	0    -1   -1   0   
 $EndComp
@@ -806,6 +821,7 @@ F 0 "D77" V 2546 6071 50  0000 R CNN
 F 1 "1N4148" V 2455 6071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 2500 5975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2500 6150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 2500 6150 50  0001 C CNN "URL"
 	1    2500 6150
 	0    -1   -1   0   
 $EndComp
@@ -864,6 +880,7 @@ F 0 "D76" V 11546 5271 50  0000 R CNN
 F 1 "1N4148" V 11455 5271 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 11500 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 11500 5350 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 11500 5350 50  0001 C CNN "URL"
 	1    11500 5350
 	0    -1   -1   0   
 $EndComp
@@ -890,6 +907,7 @@ F 0 "D75" V 9746 5271 50  0000 R CNN
 F 1 "1N4148" V 9655 5271 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 9700 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9700 5350 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9700 5350 50  0001 C CNN "URL"
 	1    9700 5350
 	0    -1   -1   0   
 $EndComp
@@ -916,6 +934,7 @@ F 0 "D74" V 9146 5271 50  0000 R CNN
 F 1 "1N4148" V 9055 5271 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 9100 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9100 5350 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9100 5350 50  0001 C CNN "URL"
 	1    9100 5350
 	0    -1   -1   0   
 $EndComp
@@ -942,6 +961,7 @@ F 0 "D73" V 8546 5271 50  0000 R CNN
 F 1 "1N4148" V 8455 5271 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 8500 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8500 5350 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 8500 5350 50  0001 C CNN "URL"
 	1    8500 5350
 	0    -1   -1   0   
 $EndComp
@@ -968,6 +988,7 @@ F 0 "D72" V 7946 5271 50  0000 R CNN
 F 1 "1N4148" V 7855 5271 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 7900 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7900 5350 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7900 5350 50  0001 C CNN "URL"
 	1    7900 5350
 	0    -1   -1   0   
 $EndComp
@@ -994,6 +1015,7 @@ F 0 "D71" V 7346 5271 50  0000 R CNN
 F 1 "1N4148" V 7255 5271 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 7300 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7300 5350 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7300 5350 50  0001 C CNN "URL"
 	1    7300 5350
 	0    -1   -1   0   
 $EndComp
@@ -1020,6 +1042,7 @@ F 0 "D70" V 6746 5271 50  0000 R CNN
 F 1 "1N4148" V 6655 5271 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 6700 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6700 5350 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6700 5350 50  0001 C CNN "URL"
 	1    6700 5350
 	0    -1   -1   0   
 $EndComp
@@ -1046,6 +1069,7 @@ F 0 "D69" V 6146 5271 50  0000 R CNN
 F 1 "1N4148" V 6055 5271 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 6100 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6100 5350 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6100 5350 50  0001 C CNN "URL"
 	1    6100 5350
 	0    -1   -1   0   
 $EndComp
@@ -1072,6 +1096,7 @@ F 0 "D68" V 5546 5271 50  0000 R CNN
 F 1 "1N4148" V 5455 5271 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 5500 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5500 5350 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 5500 5350 50  0001 C CNN "URL"
 	1    5500 5350
 	0    -1   -1   0   
 $EndComp
@@ -1098,6 +1123,7 @@ F 0 "D67" V 4946 5271 50  0000 R CNN
 F 1 "1N4148" V 4855 5271 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 4900 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4900 5350 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4900 5350 50  0001 C CNN "URL"
 	1    4900 5350
 	0    -1   -1   0   
 $EndComp
@@ -1126,6 +1152,7 @@ F 0 "D66" V 4346 5271 50  0000 R CNN
 F 1 "1N4148" V 4255 5271 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 4300 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4300 5350 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4300 5350 50  0001 C CNN "URL"
 	1    4300 5350
 	0    -1   -1   0   
 $EndComp
@@ -1152,6 +1179,7 @@ F 0 "D65" V 3746 5271 50  0000 R CNN
 F 1 "1N4148" V 3655 5271 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 3700 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3700 5350 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3700 5350 50  0001 C CNN "URL"
 	1    3700 5350
 	0    -1   -1   0   
 $EndComp
@@ -1180,6 +1208,7 @@ F 0 "D64" V 2546 5271 50  0000 R CNN
 F 1 "1N4148" V 2455 5271 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 2500 5175 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2500 5350 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 2500 5350 50  0001 C CNN "URL"
 	1    2500 5350
 	0    -1   -1   0   
 $EndComp
@@ -1240,6 +1269,7 @@ F 0 "D63" V 10346 4471 50  0000 R CNN
 F 1 "1N4148" V 10255 4471 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 10300 4375 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10300 4550 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 10300 4550 50  0001 C CNN "URL"
 	1    10300 4550
 	0    -1   -1   0   
 $EndComp
@@ -1266,6 +1296,7 @@ F 0 "D62" V 9146 4471 50  0000 R CNN
 F 1 "1N4148" V 9055 4471 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 9100 4375 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9100 4550 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9100 4550 50  0001 C CNN "URL"
 	1    9100 4550
 	0    -1   -1   0   
 $EndComp
@@ -1292,6 +1323,7 @@ F 0 "D61" V 8546 4471 50  0000 R CNN
 F 1 "1N4148" V 8455 4471 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 8500 4375 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8500 4550 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 8500 4550 50  0001 C CNN "URL"
 	1    8500 4550
 	0    -1   -1   0   
 $EndComp
@@ -1318,6 +1350,7 @@ F 0 "D60" V 7946 4471 50  0000 R CNN
 F 1 "1N4148" V 7855 4471 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 7900 4375 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7900 4550 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7900 4550 50  0001 C CNN "URL"
 	1    7900 4550
 	0    -1   -1   0   
 $EndComp
@@ -1344,6 +1377,7 @@ F 0 "D59" V 7346 4471 50  0000 R CNN
 F 1 "1N4148" V 7255 4471 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 7300 4375 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7300 4550 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7300 4550 50  0001 C CNN "URL"
 	1    7300 4550
 	0    -1   -1   0   
 $EndComp
@@ -1370,6 +1404,7 @@ F 0 "D58" V 6746 4471 50  0000 R CNN
 F 1 "1N4148" V 6655 4471 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 6700 4375 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6700 4550 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6700 4550 50  0001 C CNN "URL"
 	1    6700 4550
 	0    -1   -1   0   
 $EndComp
@@ -1396,6 +1431,7 @@ F 0 "D57" V 6146 4471 50  0000 R CNN
 F 1 "1N4148" V 6055 4471 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 6100 4375 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6100 4550 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6100 4550 50  0001 C CNN "URL"
 	1    6100 4550
 	0    -1   -1   0   
 $EndComp
@@ -1422,6 +1458,7 @@ F 0 "D56" V 5546 4471 50  0000 R CNN
 F 1 "1N4148" V 5455 4471 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 5500 4375 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5500 4550 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 5500 4550 50  0001 C CNN "URL"
 	1    5500 4550
 	0    -1   -1   0   
 $EndComp
@@ -1448,6 +1485,7 @@ F 0 "D55" V 4946 4471 50  0000 R CNN
 F 1 "1N4148" V 4855 4471 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 4900 4375 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4900 4550 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4900 4550 50  0001 C CNN "URL"
 	1    4900 4550
 	0    -1   -1   0   
 $EndComp
@@ -1476,6 +1514,7 @@ F 0 "D54" V 4346 4471 50  0000 R CNN
 F 1 "1N4148" V 4255 4471 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 4300 4375 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4300 4550 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4300 4550 50  0001 C CNN "URL"
 	1    4300 4550
 	0    -1   -1   0   
 $EndComp
@@ -1502,6 +1541,7 @@ F 0 "D53" V 3746 4471 50  0000 R CNN
 F 1 "1N4148" V 3655 4471 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 3700 4375 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3700 4550 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3700 4550 50  0001 C CNN "URL"
 	1    3700 4550
 	0    -1   -1   0   
 $EndComp
@@ -1528,6 +1568,7 @@ F 0 "D52" V 3146 4471 50  0000 R CNN
 F 1 "1N4148" V 3055 4471 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 3100 4375 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3100 4550 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3100 4550 50  0001 C CNN "URL"
 	1    3100 4550
 	0    -1   -1   0   
 $EndComp
@@ -1556,6 +1597,7 @@ F 0 "D51" V 2546 4471 50  0000 R CNN
 F 1 "1N4148" V 2455 4471 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 2500 4375 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2500 4550 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 2500 4550 50  0001 C CNN "URL"
 	1    2500 4550
 	0    -1   -1   0   
 $EndComp
@@ -1630,6 +1672,7 @@ F 0 "D50" V 12146 3671 50  0000 R CNN
 F 1 "1N4148" V 12055 3671 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 12100 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 12100 3750 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 12100 3750 50  0001 C CNN "URL"
 	1    12100 3750
 	0    -1   -1   0   
 $EndComp
@@ -1656,6 +1699,7 @@ F 0 "D49" V 11546 3671 50  0000 R CNN
 F 1 "1N4148" V 11455 3671 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 11500 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 11500 3750 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 11500 3750 50  0001 C CNN "URL"
 	1    11500 3750
 	0    -1   -1   0   
 $EndComp
@@ -1682,6 +1726,7 @@ F 0 "D48" V 10946 3671 50  0000 R CNN
 F 1 "1N4148" V 10855 3671 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 10900 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10900 3750 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 10900 3750 50  0001 C CNN "URL"
 	1    10900 3750
 	0    -1   -1   0   
 $EndComp
@@ -1708,6 +1753,7 @@ F 0 "D47" V 10346 3671 50  0000 R CNN
 F 1 "1N4148" V 10255 3671 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 10300 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10300 3750 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 10300 3750 50  0001 C CNN "URL"
 	1    10300 3750
 	0    -1   -1   0   
 $EndComp
@@ -1734,6 +1780,7 @@ F 0 "D46" V 9746 3671 50  0000 R CNN
 F 1 "1N4148" V 9655 3671 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 9700 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9700 3750 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9700 3750 50  0001 C CNN "URL"
 	1    9700 3750
 	0    -1   -1   0   
 $EndComp
@@ -1760,6 +1807,7 @@ F 0 "D45" V 9146 3671 50  0000 R CNN
 F 1 "1N4148" V 9055 3671 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 9100 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9100 3750 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9100 3750 50  0001 C CNN "URL"
 	1    9100 3750
 	0    -1   -1   0   
 $EndComp
@@ -1786,6 +1834,7 @@ F 0 "D44" V 8546 3671 50  0000 R CNN
 F 1 "1N4148" V 8455 3671 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 8500 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8500 3750 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 8500 3750 50  0001 C CNN "URL"
 	1    8500 3750
 	0    -1   -1   0   
 $EndComp
@@ -1812,6 +1861,7 @@ F 0 "D43" V 7946 3671 50  0000 R CNN
 F 1 "1N4148" V 7855 3671 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 7900 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7900 3750 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7900 3750 50  0001 C CNN "URL"
 	1    7900 3750
 	0    -1   -1   0   
 $EndComp
@@ -1838,6 +1888,7 @@ F 0 "D42" V 7346 3671 50  0000 R CNN
 F 1 "1N4148" V 7255 3671 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 7300 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7300 3750 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7300 3750 50  0001 C CNN "URL"
 	1    7300 3750
 	0    -1   -1   0   
 $EndComp
@@ -1864,6 +1915,7 @@ F 0 "D41" V 6746 3671 50  0000 R CNN
 F 1 "1N4148" V 6655 3671 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 6700 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6700 3750 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6700 3750 50  0001 C CNN "URL"
 	1    6700 3750
 	0    -1   -1   0   
 $EndComp
@@ -1890,6 +1942,7 @@ F 0 "D40" V 6146 3671 50  0000 R CNN
 F 1 "1N4148" V 6055 3671 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 6100 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6100 3750 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6100 3750 50  0001 C CNN "URL"
 	1    6100 3750
 	0    -1   -1   0   
 $EndComp
@@ -1916,6 +1969,7 @@ F 0 "D39" V 5546 3671 50  0000 R CNN
 F 1 "1N4148" V 5455 3671 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 5500 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5500 3750 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 5500 3750 50  0001 C CNN "URL"
 	1    5500 3750
 	0    -1   -1   0   
 $EndComp
@@ -1942,6 +1996,7 @@ F 0 "D38" V 4946 3671 50  0000 R CNN
 F 1 "1N4148" V 4855 3671 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 4900 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4900 3750 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4900 3750 50  0001 C CNN "URL"
 	1    4900 3750
 	0    -1   -1   0   
 $EndComp
@@ -1970,6 +2025,7 @@ F 0 "D37" V 4346 3671 50  0000 R CNN
 F 1 "1N4148" V 4255 3671 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 4300 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4300 3750 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4300 3750 50  0001 C CNN "URL"
 	1    4300 3750
 	0    -1   -1   0   
 $EndComp
@@ -1996,6 +2052,7 @@ F 0 "D36" V 3746 3671 50  0000 R CNN
 F 1 "1N4148" V 3655 3671 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 3700 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3700 3750 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3700 3750 50  0001 C CNN "URL"
 	1    3700 3750
 	0    -1   -1   0   
 $EndComp
@@ -2022,6 +2079,7 @@ F 0 "D35" V 3146 3671 50  0000 R CNN
 F 1 "1N4148" V 3055 3671 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 3100 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3100 3750 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3100 3750 50  0001 C CNN "URL"
 	1    3100 3750
 	0    -1   -1   0   
 $EndComp
@@ -2050,6 +2108,7 @@ F 0 "D34" V 2546 3671 50  0000 R CNN
 F 1 "1N4148" V 2455 3671 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 2500 3575 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2500 3750 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 2500 3750 50  0001 C CNN "URL"
 	1    2500 3750
 	0    -1   -1   0   
 $EndComp
@@ -2169,6 +2228,7 @@ F 0 "D33" V 12146 2871 50  0000 R CNN
 F 1 "1N4148" V 12055 2871 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 12100 2775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 12100 2950 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 12100 2950 50  0001 C CNN "URL"
 	1    12100 2950
 	0    -1   -1   0   
 $EndComp
@@ -2195,6 +2255,7 @@ F 0 "D32" V 11546 2871 50  0000 R CNN
 F 1 "1N4148" V 11455 2871 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 11500 2775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 11500 2950 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 11500 2950 50  0001 C CNN "URL"
 	1    11500 2950
 	0    -1   -1   0   
 $EndComp
@@ -2221,6 +2282,7 @@ F 0 "D31" V 10946 2871 50  0000 R CNN
 F 1 "1N4148" V 10855 2871 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 10900 2775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10900 2950 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 10900 2950 50  0001 C CNN "URL"
 	1    10900 2950
 	0    -1   -1   0   
 $EndComp
@@ -2247,6 +2309,7 @@ F 0 "D30" V 10346 2871 50  0000 R CNN
 F 1 "1N4148" V 10255 2871 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 10300 2775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10300 2950 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 10300 2950 50  0001 C CNN "URL"
 	1    10300 2950
 	0    -1   -1   0   
 $EndComp
@@ -2273,6 +2336,7 @@ F 0 "D29" V 9746 2871 50  0000 R CNN
 F 1 "1N4148" V 9655 2871 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 9700 2775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9700 2950 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9700 2950 50  0001 C CNN "URL"
 	1    9700 2950
 	0    -1   -1   0   
 $EndComp
@@ -2299,6 +2363,7 @@ F 0 "D28" V 9146 2871 50  0000 R CNN
 F 1 "1N4148" V 9055 2871 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 9100 2775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9100 2950 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9100 2950 50  0001 C CNN "URL"
 	1    9100 2950
 	0    -1   -1   0   
 $EndComp
@@ -2325,6 +2390,7 @@ F 0 "D27" V 8546 2871 50  0000 R CNN
 F 1 "1N4148" V 8455 2871 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 8500 2775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8500 2950 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 8500 2950 50  0001 C CNN "URL"
 	1    8500 2950
 	0    -1   -1   0   
 $EndComp
@@ -2351,6 +2417,7 @@ F 0 "D26" V 7946 2871 50  0000 R CNN
 F 1 "1N4148" V 7855 2871 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 7900 2775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7900 2950 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7900 2950 50  0001 C CNN "URL"
 	1    7900 2950
 	0    -1   -1   0   
 $EndComp
@@ -2377,6 +2444,7 @@ F 0 "D25" V 7346 2871 50  0000 R CNN
 F 1 "1N4148" V 7255 2871 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 7300 2775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7300 2950 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7300 2950 50  0001 C CNN "URL"
 	1    7300 2950
 	0    -1   -1   0   
 $EndComp
@@ -2403,6 +2471,7 @@ F 0 "D24" V 6746 2871 50  0000 R CNN
 F 1 "1N4148" V 6655 2871 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 6700 2775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6700 2950 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6700 2950 50  0001 C CNN "URL"
 	1    6700 2950
 	0    -1   -1   0   
 $EndComp
@@ -2429,6 +2498,7 @@ F 0 "D23" V 6146 2871 50  0000 R CNN
 F 1 "1N4148" V 6055 2871 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 6100 2775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6100 2950 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6100 2950 50  0001 C CNN "URL"
 	1    6100 2950
 	0    -1   -1   0   
 $EndComp
@@ -2455,6 +2525,7 @@ F 0 "D22" V 5546 2871 50  0000 R CNN
 F 1 "1N4148" V 5455 2871 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 5500 2775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5500 2950 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 5500 2950 50  0001 C CNN "URL"
 	1    5500 2950
 	0    -1   -1   0   
 $EndComp
@@ -2481,6 +2552,7 @@ F 0 "D21" V 4946 2871 50  0000 R CNN
 F 1 "1N4148" V 4855 2871 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 4900 2775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4900 2950 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4900 2950 50  0001 C CNN "URL"
 	1    4900 2950
 	0    -1   -1   0   
 $EndComp
@@ -2509,6 +2581,7 @@ F 0 "D20" V 4346 2871 50  0000 R CNN
 F 1 "1N4148" V 4255 2871 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 4300 2775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4300 2950 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4300 2950 50  0001 C CNN "URL"
 	1    4300 2950
 	0    -1   -1   0   
 $EndComp
@@ -2535,6 +2608,7 @@ F 0 "D19" V 3746 2871 50  0000 R CNN
 F 1 "1N4148" V 3655 2871 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 3700 2775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3700 2950 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3700 2950 50  0001 C CNN "URL"
 	1    3700 2950
 	0    -1   -1   0   
 $EndComp
@@ -2561,6 +2635,7 @@ F 0 "D18" V 3146 2871 50  0000 R CNN
 F 1 "1N4148" V 3055 2871 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 3100 2775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3100 2950 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3100 2950 50  0001 C CNN "URL"
 	1    3100 2950
 	0    -1   -1   0   
 $EndComp
@@ -2589,6 +2664,7 @@ F 0 "D17" V 2546 2871 50  0000 R CNN
 F 1 "1N4148" V 2455 2871 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 2500 2775 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2500 2950 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 2500 2950 50  0001 C CNN "URL"
 	1    2500 2950
 	0    -1   -1   0   
 $EndComp
@@ -2617,6 +2693,7 @@ F 0 "D16" V 12146 2071 50  0000 R CNN
 F 1 "1N4148" V 12055 2071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 12100 1975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 12100 2150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 12100 2150 50  0001 C CNN "URL"
 	1    12100 2150
 	0    -1   -1   0   
 $EndComp
@@ -2645,6 +2722,7 @@ F 0 "D15" V 11546 2071 50  0000 R CNN
 F 1 "1N4148" V 11455 2071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 11500 1975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 11500 2150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 11500 2150 50  0001 C CNN "URL"
 	1    11500 2150
 	0    -1   -1   0   
 $EndComp
@@ -2673,6 +2751,7 @@ F 0 "D14" V 10946 2071 50  0000 R CNN
 F 1 "1N4148" V 10855 2071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 10900 1975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 10900 2150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 10900 2150 50  0001 C CNN "URL"
 	1    10900 2150
 	0    -1   -1   0   
 $EndComp
@@ -2701,6 +2780,7 @@ F 0 "D13" V 9746 2071 50  0000 R CNN
 F 1 "1N4148" V 9655 2071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 9700 1975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9700 2150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9700 2150 50  0001 C CNN "URL"
 	1    9700 2150
 	0    -1   -1   0   
 $EndComp
@@ -2729,6 +2809,7 @@ F 0 "D12" V 9146 2071 50  0000 R CNN
 F 1 "1N4148" V 9055 2071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 9100 1975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9100 2150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 9100 2150 50  0001 C CNN "URL"
 	1    9100 2150
 	0    -1   -1   0   
 $EndComp
@@ -2757,6 +2838,7 @@ F 0 "D11" V 8546 2071 50  0000 R CNN
 F 1 "1N4148" V 8455 2071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 8500 1975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 8500 2150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 8500 2150 50  0001 C CNN "URL"
 	1    8500 2150
 	0    -1   -1   0   
 $EndComp
@@ -2785,6 +2867,7 @@ F 0 "D10" V 7946 2071 50  0000 R CNN
 F 1 "1N4148" V 7855 2071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 7900 1975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7900 2150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7900 2150 50  0001 C CNN "URL"
 	1    7900 2150
 	0    -1   -1   0   
 $EndComp
@@ -2813,6 +2896,7 @@ F 0 "D9" V 7346 2071 50  0000 R CNN
 F 1 "1N4148" V 7255 2071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 7300 1975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 7300 2150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 7300 2150 50  0001 C CNN "URL"
 	1    7300 2150
 	0    -1   -1   0   
 $EndComp
@@ -2841,6 +2925,7 @@ F 0 "D8" V 6746 2071 50  0000 R CNN
 F 1 "1N4148" V 6655 2071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 6700 1975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6700 2150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6700 2150 50  0001 C CNN "URL"
 	1    6700 2150
 	0    -1   -1   0   
 $EndComp
@@ -2869,6 +2954,7 @@ F 0 "D7" V 6146 2071 50  0000 R CNN
 F 1 "1N4148" V 6055 2071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 6100 1975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 6100 2150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 6100 2150 50  0001 C CNN "URL"
 	1    6100 2150
 	0    -1   -1   0   
 $EndComp
@@ -2897,6 +2983,7 @@ F 0 "D6" V 5546 2071 50  0000 R CNN
 F 1 "1N4148" V 5455 2071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 5500 1975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5500 2150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 5500 2150 50  0001 C CNN "URL"
 	1    5500 2150
 	0    -1   -1   0   
 $EndComp
@@ -2925,6 +3012,7 @@ F 0 "D5" V 4946 2071 50  0000 R CNN
 F 1 "1N4148" V 4855 2071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 4900 1975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4900 2150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4900 2150 50  0001 C CNN "URL"
 	1    4900 2150
 	0    -1   -1   0   
 $EndComp
@@ -2953,6 +3041,7 @@ F 0 "D4" V 4346 2071 50  0000 R CNN
 F 1 "1N4148" V 4255 2071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 4300 1975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4300 2150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 4300 2150 50  0001 C CNN "URL"
 	1    4300 2150
 	0    -1   -1   0   
 $EndComp
@@ -2981,6 +3070,7 @@ F 0 "D3" V 3746 2071 50  0000 R CNN
 F 1 "1N4148" V 3655 2071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 3700 1975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3700 2150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3700 2150 50  0001 C CNN "URL"
 	1    3700 2150
 	0    -1   -1   0   
 $EndComp
@@ -3009,6 +3099,7 @@ F 0 "D2" V 3146 2071 50  0000 R CNN
 F 1 "1N4148" V 3055 2071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 3100 1975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 3100 2150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 3100 2150 50  0001 C CNN "URL"
 	1    3100 2150
 	0    -1   -1   0   
 $EndComp
@@ -3039,6 +3130,7 @@ F 0 "D1" V 2546 2071 50  0000 R CNN
 F 1 "1N4148" V 2455 2071 50  0000 R CNN
 F 2 "yurei:D_DO-35_SOD27_P7.62mm_Horizontal" H 2500 1975 50  0001 C CNN
 F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 2500 2150 50  0001 C CNN
+F 4 "https://www.digikey.jp/product-detail/ja/on-semiconductor/1N4148/1N4148FS-ND/458603" H 2500 2150 50  0001 C CNN "URL"
 	1    2500 2150
 	0    -1   -1   0   
 $EndComp
