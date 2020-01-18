@@ -37,7 +37,7 @@ A Tenkeyless PCB inspired by Phantom, designed for customizing Filco Majestouch 
 | D1-D87    | Diode       | 1N4148    |https://www.digikey.jp/product-detail/en/on-semiconductor/1N4148/1N4148FS-ND/458603                      | 87  | 
 | L1, L2    | LED         | LED       |https://www.digikey.jp/product-detail/en/vishay-semiconductor-opto-division/VLHW4100/751-1502-ND/2403143 | 2   | 
 | R1, R2    | Resistor    | 10k       |https://www.digikey.jp/product-detail/en/yageo/MFR-25FBF52-10K/10.0KXBK-ND/13219                         | 2   | 
-| SW1-SW87  | Key switch  | SW_SPST   |                                                                                                         | 87  | 
+| SW1-SW87  | Key switch  | Cherry MX |                                                                                                         | 87  | 
 | U1        | Controller  | Teensy2.0 |https://www.pjrc.com/store/teensy.html                                                                   | 1   | 
 
 You also need following parts to build keyboard.
